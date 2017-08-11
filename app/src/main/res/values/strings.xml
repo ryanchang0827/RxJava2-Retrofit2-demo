@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">rxRetrofit</string>
+    <string name="title_activity_api">APIActivity</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_member_list">MemberListActivity</string>
+</resources>
